@@ -172,9 +172,9 @@ This project is licensed under the MIT License.
 
 **Tushar Mavi**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/tusharmaviii26
 
-LinkedIn: https://linkedin.com/in/yourusername
+LinkedIn: https://www.linkedin.com/in/tushar-maviii/
 
 ---
 
