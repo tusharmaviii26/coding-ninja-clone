@@ -103,7 +103,7 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center gap-6">
 
             <p className="text-xs font-[500] text-[#BBBCBD]">
-              Copyright © Developed by - Rohan 💓.
+              Copyright © Developed by - TUSHAR MAVI 💓.
             </p>
 
             <div className="flex space-x-4 cursor-pointer">
